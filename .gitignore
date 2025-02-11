@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+sdist/
+*.egg-info/
+*.deb
+*.rpm
+*.tar.gz
+*.whl
+
+# PyInstaller
+**/__pycache__
+**/*.spec
+build
+dist
+
+# Environments
+.venv
+venv
+env
+ENV
+*.env
+
+# Log files and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyTorch related
+lightning_logs/
+checkpoints/
+
+# OS or Editor Folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Other
+.DS_Store
+*.csv
+data/
+
+archive.zip
