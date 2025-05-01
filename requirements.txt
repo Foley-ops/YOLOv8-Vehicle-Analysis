@@ -3,3 +3,7 @@ numpy
 Pillow
 matplotlib
 tqdm
+ultralytics
+torch
+torchvision
+roboflow
